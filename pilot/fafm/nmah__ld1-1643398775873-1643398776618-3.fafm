@@ -1,0 +1,45 @@
+version: '1.0'
+namepoint: '@wolfejam-memory'
+created: '2026-05-13T12:58:00Z'
+last_etched: '2026-05-27T00:44:41.839815Z'
+retention: forever
+memory:
+  entries:
+  - source: nmah__ld1-1643398775873-1643398776618-3.md
+    name: ld1-1643398775873-1643398776618-3
+    description: clock
+    type: edanmdm
+    dates: []
+    related: []
+    body: '# clock
+
+
+      ## Description
+
+      - **Location:** Currently not on view
+
+
+      ## Identifier
+
+      - **ID Number:** ME.318106 [dup1]
+
+      - **catalog number:** 318106
+
+
+      ## Set
+
+      - **See more items in:** Work and Industry: Mechanisms
+
+
+      ## Object Type
+
+      - **Object Name:** Clock
+
+      - **Other Terms:** Clock; Mechanical, Spring-Driven
+
+
+      ## Physical
+
+      - **Physical Description:** metal, "brass" (case material)
+
+      - **Physical Description:** metal, "brass" (movement material)'

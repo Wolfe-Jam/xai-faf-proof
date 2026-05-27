@@ -1,0 +1,31 @@
+version: '1.0'
+namepoint: '@wolfejam-memory'
+created: '2026-05-13T12:58:00Z'
+last_etched: '2026-05-27T00:44:41.459725Z'
+retention: forever
+memory:
+  entries:
+  - source: aaa__ebl-1503510079928-1503510080066-5.md
+    name: ebl-1503510079928-1503510080066-5
+    description: Carlevaris, Luca (notes)
+    type: ead_component
+    dates: []
+    related: []
+    body: '# Carlevaris, Luca (notes)
+
+
+      ## Names
+
+      - **Collection Creator:** Constable, W. G. (William George), 1887-1976
+
+
+      ## Set
+
+      - **See more items in:** W.G. Constable papers
+
+      - **See more items in:** W.G. Constable papers / Series 8: Research Files / 8.3: Artists, Vedute Painters
+
+
+      ## Object Type
+
+      - **Type:** Archival materials'

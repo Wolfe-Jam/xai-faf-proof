@@ -1,0 +1,51 @@
+version: '1.0'
+namepoint: '@wolfejam-memory'
+created: '2026-05-13T12:58:00Z'
+last_etched: '2026-05-27T00:44:46.050612Z'
+retention: forever
+memory:
+  entries:
+  - source: nmnhanthro__ld1-1643406825086-1643406825210-0.md
+    name: ld1-1643406825086-1643406825210-0
+    description: Winnowing Tray
+    type: edanmdm
+    dates: []
+    related: []
+    body: '# Winnowing Tray
+
+
+      ## Description
+
+      - **Notes:** No catalog card found in card file
+
+      - **Record Last Modified:** 15 Dec 2014
+
+      - **Specimen Count:** 1
+
+
+      ## Names
+
+      - **Collector:** Mr. De Lancey W. Gill
+
+      - **Collector:** A.E. Jenks
+
+      - **Collector:** Mr. James Mooney
+
+      - **Donor Name:** Bureau Of American Ethnology
+
+
+      ## Identifier
+
+      - **Accession Number:** 040385
+
+      - **USNM Number:** E216470-0
+
+
+      ## Set
+
+      - **See more items in:** Anthropology
+
+
+      ## Object Type
+
+      - **Object Type:** Basket'

@@ -1,0 +1,31 @@
+version: '1.0'
+namepoint: '@wolfejam-memory'
+created: '2026-05-13T12:58:00Z'
+last_etched: '2026-05-27T00:44:46.438101Z'
+retention: forever
+memory:
+  entries:
+  - source: npg__ebl-1503512123765-1503512123771-6.md
+    name: ebl-1503512123765-1503512123771-6
+    description: Works attributed to Healy
+    type: ead_component
+    dates: []
+    related: []
+    body: '# Works attributed to Healy
+
+
+      ## Names
+
+      - **Collection Researcher:** Voss, Frederick S.
+
+
+      ## Set
+
+      - **See more items in:** Frederick S. Voss research material on George Peter Alexander Healy
+
+      - **See more items in:** Frederick S. Voss research material on George Peter Alexander Healy / Series 1: Files
+
+
+      ## Object Type
+
+      - **Type:** Archival materials'

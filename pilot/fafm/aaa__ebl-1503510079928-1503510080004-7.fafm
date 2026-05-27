@@ -1,0 +1,31 @@
+version: '1.0'
+namepoint: '@wolfejam-memory'
+created: '2026-05-13T12:58:00Z'
+last_etched: '2026-05-27T00:44:41.451308Z'
+retention: forever
+memory:
+  entries:
+  - source: aaa__ebl-1503510079928-1503510080004-7.md
+    name: ebl-1503510079928-1503510080004-7
+    description: Lady Lever Art Gallery
+    type: ead_component
+    dates: []
+    related: []
+    body: '# Lady Lever Art Gallery
+
+
+      ## Names
+
+      - **Collection Creator:** Constable, W. G. (William George), 1887-1976
+
+
+      ## Set
+
+      - **See more items in:** W.G. Constable papers
+
+      - **See more items in:** W.G. Constable papers / Series 2: Correspondence / 2.2: Committees
+
+
+      ## Object Type
+
+      - **Type:** Archival materials'

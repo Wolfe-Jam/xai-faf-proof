@@ -1,0 +1,43 @@
+version: '1.0'
+namepoint: '@wolfejam-memory'
+created: '2026-05-13T12:58:00Z'
+last_etched: '2026-05-27T00:44:45.368841Z'
+retention: forever
+memory:
+  entries:
+  - source: nmnhanthro__ld1-1643406825086-1643406825232-1.md
+    name: ld1-1643406825086-1643406825232-1
+    description: Silver Image Of "Buddha"
+    type: edanmdm
+    dates: []
+    related: []
+    body: '# Silver Image Of "Buddha"
+
+
+      ## Description
+
+      - **Record Last Modified:** 1 Dec 2014
+
+      - **Specimen Count:** 1
+
+
+      ## Names
+
+      - **Donor Name:** Dr. Carl C. Hansen
+
+
+      ## Identifier
+
+      - **Accession Number:** 039920
+
+      - **USNM Number:** E217555-0
+
+
+      ## Set
+
+      - **See more items in:** Anthropology
+
+
+      ## Object Type
+
+      - **Object Type:** Figure'
