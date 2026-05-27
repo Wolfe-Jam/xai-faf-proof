@@ -77,8 +77,8 @@ def convert_one(src_path):
 
     entry = {
         "source": src_path.name,
-        "name": fm.get("name") or "",
-        "description": fm.get("description") or "",
+        "name": fm.get("name") or fm.get("id") or "",
+        "description": fm.get("description") or fm.get("title") or "",
         "type": normalize_type(fm),
         "dates": extract_dates(body),
         "related": extract_related(body),
@@ -107,7 +107,7 @@ def main():
     print("-" * 80)
     md_total = 0
     fafm_total = 0
-    for src in sorted(SOURCE_DIR.glob("proto-*.md")):
+    for src in sorted(SOURCE_DIR.glob("*.md")):
         _, md_bytes, fafm_bytes = convert_one(src)
         md_total += md_bytes
         fafm_total += fafm_bytes

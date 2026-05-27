@@ -131,7 +131,7 @@ def decode_fafm_binary(data):
 # ============================================================
 
 def compile_all():
-    files = sorted(FAFM_DIR.glob("proto-*.fafm"))
+    files = sorted(FAFM_DIR.glob("*.fafm"))
     sizes = []
     for f in files:
         source_text = f.read_text()
@@ -166,36 +166,36 @@ def compile_all():
 # ============================================================
 
 def load_md_corpus():
-    return [p.read_text() for p in sorted(MD_DIR.glob("proto-*.md"))]
+    return [p.read_text() for p in sorted(MD_DIR.glob("*.md"))]
 
 
 def load_fafm_corpus():
-    return [yaml.safe_load(p.read_text()) for p in sorted(FAFM_DIR.glob("proto-*.fafm"))]
+    return [yaml.safe_load(p.read_text()) for p in sorted(FAFM_DIR.glob("*.fafm"))]
 
 
 def load_gz_corpus():
     out = []
-    for p in sorted(OUT_DIR.glob("proto-*.fafm.gz")):
+    for p in sorted(OUT_DIR.glob("*.fafm.gz")):
         out.append(yaml.safe_load(gzip.decompress(p.read_bytes()).decode()))
     return out
 
 
 def load_jgz_corpus():
     out = []
-    for p in sorted(OUT_DIR.glob("proto-*.jgz")):
+    for p in sorted(OUT_DIR.glob("*.jgz")):
         out.append(json.loads(gzip.decompress(p.read_bytes()).decode()))
     return out
 
 
 def load_bin_corpus():
     return [decode_fafm_binary(p.read_bytes())
-            for p in sorted(OUT_DIR.glob("proto-*.fafmbin"))
+            for p in sorted(OUT_DIR.glob("*.fafmbin"))
             if not p.name.endswith(".gz")]
 
 
 def load_bingz_corpus():
     return [decode_fafm_binary(gzip.decompress(p.read_bytes()))
-            for p in sorted(OUT_DIR.glob("proto-*.fafmbin.gz"))]
+            for p in sorted(OUT_DIR.glob("*.fafmbin.gz"))]
 
 
 def time_loader(fn, repeats=REPEATS):

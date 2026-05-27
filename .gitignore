@@ -1,0 +1,13 @@
+# Python runtime artifacts
+__pycache__/
+*.pyc
+*.smoketest.tmp
+
+# Pilot corpus — ship only the small sanitized sample, exclude bulk.
+# Specific pilot files in feature PRs are added via `git add -f pilot/<file>`.
+pilot/md/*.md
+pilot/fafm/*.fafm
+pilot/bin/*
+!pilot/md/.gitkeep
+!pilot/fafm/.gitkeep
+!pilot/bin/.gitkeep
