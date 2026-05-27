@@ -1,5 +1,7 @@
 # xai-faf-proof
 
+![xai-faf-proof — 1,399× faster type-filter speedup vs grep on real AI memory corpora](./share-card.png)
+
 **Grok + Claude co-built memory performance receipts for `.fafm` / `.fafb`.**
 
 Falsifiable benchmarks the Grok and Claude communities can verify — measured on Smithsonian Open Access + Claude memory corpora. Methodology mirrors [`faf-memory-proof`](https://github.com/Wolfe-Jam/faf-memory-proof)'s 412× receipt.
