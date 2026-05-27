@@ -1,0 +1,45 @@
+version: '1.0'
+namepoint: '@wolfejam-memory'
+created: '2026-05-13T12:58:00Z'
+last_etched: '2026-05-27T00:44:42.367240Z'
+retention: forever
+memory:
+  entries:
+  - source: nmah__ld1-1643398775873-1643398776578-0.md
+    name: ld1-1643398775873-1643398776578-0
+    description: watch
+    type: edanmdm
+    dates: []
+    related: []
+    body: '# watch
+
+
+      ## Description
+
+      - **Location:** Currently not on view
+
+
+      ## Identifier
+
+      - **ID Number:** ME.317836
+
+      - **catalog number:** 317836
+
+
+      ## Set
+
+      - **See more items in:** Work and Industry: Mechanisms
+
+
+      ## Object Type
+
+      - **Object Name:** Watch
+
+      - **Other Terms:** Watch; Mechanical, Spring-Driven; Pocket Watch
+
+
+      ## Physical
+
+      - **Physical Description:** metal, "brass" (watch movement material)
+
+      - **Physical Description:** metal, gold (watch case material)'

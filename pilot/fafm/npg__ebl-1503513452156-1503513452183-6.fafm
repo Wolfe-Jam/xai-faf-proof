@@ -1,0 +1,31 @@
+version: '1.0'
+namepoint: '@wolfejam-memory'
+created: '2026-05-13T12:58:00Z'
+last_etched: '2026-05-27T00:44:46.419667Z'
+retention: forever
+memory:
+  entries:
+  - source: npg__ebl-1503513452156-1503513452183-6.md
+    name: ebl-1503513452156-1503513452183-6
+    description: Samuel King
+    type: ead_component
+    dates: []
+    related: []
+    body: '# Samuel King
+
+
+      ## Names
+
+      - **Collection Creator:** Stewart, Robert G. , 1931-2005
+
+
+      ## Set
+
+      - **See more items in:** Robert G. Stewart research materials
+
+      - **See more items in:** Robert G. Stewart research materials / Series 5: Various artists
+
+
+      ## Object Type
+
+      - **Type:** Archival materials'

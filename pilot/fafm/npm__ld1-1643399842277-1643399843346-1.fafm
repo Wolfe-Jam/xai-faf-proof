@@ -1,0 +1,55 @@
+version: '1.0'
+namepoint: '@wolfejam-memory'
+created: '2026-05-13T12:58:00Z'
+last_etched: '2026-05-27T00:44:46.463031Z'
+retention: forever
+memory:
+  entries:
+  - source: npm__ld1-1643399842277-1643399843346-1.md
+    name: ld1-1643399842277-1643399843346-1
+    description: 2c Washington plate proof
+    type: edanmdm
+    dates: []
+    related: []
+    body: '# 2c Washington plate proof
+
+
+      ## Description
+
+      - **Description:** Certified plate proofs are the last printed proof of the plate before printing the stamps at the
+      Bureau of Engraving and Printing. These plate proofs are each unique, with the approval signatures and date. For postal
+      scholars these plates provide important production information in the plate margin inscriptions, including guidelines,
+      plate numbers, and initials of the siderographer, or person who created the plate from a transfer roll.
+
+      - **Description:** Plate No. 10
+
+      - **Description:** Denomination: 2 c
+
+      - **Description:** Subject: Washington
+
+      - **Description:** Color: pink
+
+
+      ## Names
+
+      - **Printer:** Bureau of Engraving and Printing
+
+
+      ## Identifier
+
+      - **Object number:** 0.242263.10
+
+
+      ## Set
+
+      - **See more items in:** National Postal Museum Collection
+
+
+      ## Object Type
+
+      - **Type:** Bureau Plate Proofs
+
+
+      ## Physical
+
+      - **Medium:** paper; ink (pink) /engraving'
