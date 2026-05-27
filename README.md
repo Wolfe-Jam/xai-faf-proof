@@ -1,8 +1,8 @@
 # xai-faf-proof
 
-**Performance receipts for the `.fafm` / `.fafb` structured AI memory tier — measured on real public-domain corpora.**
+**Grok + Claude co-built memory performance receipts for `.fafm` / `.fafb`.**
 
-Same falsifiable methodology as the original [`faf-memory-proof`](https://github.com/Wolfe-Jam/faf-memory-proof) (412× type-filter speedup, 492 files, May 2026). This repo scales it to two real-world corpora: Smithsonian Open Access (9,175 records, CC0 public-domain) and a Claude persistent memory corpus (674 records, real-world frontmatter).
+Falsifiable benchmarks the Grok and Claude communities can verify — measured on Smithsonian Open Access + Claude memory corpora. Methodology mirrors [`faf-memory-proof`](https://github.com/Wolfe-Jam/faf-memory-proof)'s 412× receipt.
 
 ### Headline Result
 
