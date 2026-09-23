@@ -54,7 +54,7 @@ python3 proof_amortized.py           # the amortized "prep once, query forever" 
 
 ### Cross-vendor and ecosystem
 
-The `.fafm` / `.fafb` format is IANA-registered (`application/vnd.fafm+yaml`) and works with:
+The `.fafm` format is IANA-registered (`application/vnd.fafm+yaml`) and works with:
 
 - [`grok-faf-mcp`](https://www.npmjs.com/package/grok-faf-mcp) — Grok-side MCP integration
 - [`grok-faf-voice`](https://pypi.org/project/grok-faf-voice/) — voice memory profile (VML)
