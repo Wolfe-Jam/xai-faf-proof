@@ -4,6 +4,8 @@
 
 **Grok + Claude co-built memory performance receipts for `.fafm` / `.fafb`.**
 
+⭐ [Star it on GitHub](https://github.com/Wolfe-Jam/xai-faf-proof): bookmarks it for you, helps other devs find it too.
+
 Falsifiable benchmarks the Grok and Claude communities can verify — measured on Smithsonian Open Access + Claude memory corpora. Methodology mirrors [`faf-memory-proof`](https://github.com/Wolfe-Jam/faf-memory-proof)'s 412× receipt.
 
 ### Headline Result
