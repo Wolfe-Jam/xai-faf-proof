@@ -1,0 +1,66 @@
+{
+  "birthCertificate": {
+    "born": "2026-10-29T06:25:27.114Z",
+    "birthDNA": 42,
+    "birthDNASource": "init",
+    "projectDNA": "5da0227dd6b918fd",
+    "certificate": "FAF-2026-XAIFAFPR-RD0W"
+  },
+  "versions": [
+    {
+      "version": "v1.0.0",
+      "timestamp": "2026-10-29T06:25:27.114Z",
+      "score": 42,
+      "changes": [
+        "Birth — initial context"
+      ],
+      "growth": 0
+    },
+    {
+      "version": "v1.0.1",
+      "timestamp": "2026-10-29T06:26:51.663Z",
+      "score": 83,
+      "changes": [
+        "faf auto"
+      ],
+      "growth": 41
+    }
+  ],
+  "current": {
+    "version": "v1.0.1",
+    "score": 83,
+    "lastSync": "2026-10-29T06:26:51.663Z"
+  },
+  "growth": {
+    "totalGrowth": 41,
+    "daysActive": 0,
+    "milestones": [
+      {
+        "type": "birth",
+        "score": 42,
+        "date": "2026-10-29T06:25:27.114Z",
+        "version": "v1.0.0",
+        "label": "Birth",
+        "emoji": "🐣"
+      },
+      {
+        "type": "peak",
+        "score": 83,
+        "date": "2026-10-29T06:26:51.663Z",
+        "version": "v1.0.1",
+        "label": "Peak",
+        "emoji": "🏔️"
+      },
+      {
+        "type": "current",
+        "score": 83,
+        "date": "2026-10-29T06:26:51.663Z",
+        "version": "v1.0.1",
+        "label": "Current",
+        "emoji": "📍"
+      }
+    ]
+  },
+  "lastModified": "2026-10-29T06:26:51.664Z",
+  "format": "faf-dna-v1"
+}
